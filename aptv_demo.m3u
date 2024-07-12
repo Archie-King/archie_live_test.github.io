@@ -75,18 +75,20 @@ http://jxcbn.ws-cdn.gitv.tv/hls/BEIJHD/index.m3u8?gMac=unknown&livodToken=a03d2d
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/HUNANHD/index.m3u8?gMac=unknown&livodToken=dac077f2344d86f6499d547255e452bc95ce6bc8399a6338d4b3c67eee105aea_1720505056_604800&fromCDN=ws
 
-
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/DONGFHD/index.m3u8?gMac=unknown&livodToken=b7bb48fb65bb7bd0e2ce4de6309c40e502d1cc91787b4b7c85cea02bf3d22638_1720504796_604800&fromCDN=ws
 
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://jxcbn.ws-cdn.gitv.tv/hls/JIANGSHD/index.m3u8?gMac=unknown&livodToken=9f2a7ee1dceb8fb0de4c36b3c04903e7e66e2b6428eedbbc68925456ffa75296_1720505091_604800&fromCDN=ws
+
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/SICHD/index.m3u8?gMac=unknown&livodToken=aae3b7d3f710cb95ac50e10fd1c8915cbd473aa1d627861a4e331b6470420b14_1720505236_604800&fromCDN=ws
 
-
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/TIANJHD/index.m3u8?gMac=unknown&livodToken=977e71eed63ad14d681dbd5962343cae48fe3599170fe630e0e7aba01dfde99a_1720504813_604800&fromCDN=ws
-
 
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/ANHUIHD/index.m3u8?gMac=unknown&livodToken=2923444bead95427f28e1d92e80a38244cbaaaebd9e9a136112147831ad676e1_1720505005_604800&fromCDN=ws
@@ -103,11 +105,6 @@ http://jxcbn.ws-cdn.gitv.tv/hls/GUANGDHD/index.m3u8?gMac=unknown&livodToken=851d
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/GUANGXHD/index.m3u8?gMac=unknown&livodToken=86a5fed20a305cd10cb1e1f3d81ca473de518a45b7e630fa7b7e66dcf2c2e316_1720505191_604800&fromCDN=ws
 
-
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://jxcbn.ws-cdn.gitv.tv/hls/JIANGSHD/index.m3u8?gMac=unknown&livodToken=9f2a7ee1dceb8fb0de4c36b3c04903e7e66e2b6428eedbbc68925456ffa75296_1720505091_604800&fromCDN=ws
-
-
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/JXWSHD/index.m3u8?gMac=unknown&livodToken=474c90d882097b2d562398658075287e1e21930013b659af3a1922509cd4bbd1_1720505073_604800&fromCDN=ws
 
@@ -118,11 +115,6 @@ http://jxcbn.ws-cdn.gitv.tv/hls/HAIBHD/index.m3u8?gMac=unknown&livodToken=149695
 
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/HENHD/index.m3u8?gMac=unknown&livodToken=8f3df88626853460a1d54ef589218045fdcfe63877800445b4cd7b0b39f8b9f6_1720505022_604800&fromCDN=ws
-
-
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
 
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://jxcbn.ws-cdn.gitv.tv/hls/HAINHD/index.m3u8?gMac=unknown&livodToken=2b30d57372713ae10ee004113d8ce4b737f5bd7631a1bd4bf19aa667cd535f27_1720505278_604800&fromCDN=ws
@@ -402,15 +394,4 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 
-#EXTINF:-1 tvg-name="CETV1中国教育电视台一套" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/CETV1中国教育电视台一套.png" group-title="未知",CETV1中国教育电视台一套
-http://hwylivehd.centv.cn/cetv1/ypd.m3u8
-
-#EXTINF:-1 tvg-name="CETV2中国教育电视台二套" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/CETV2中国教育电视台二套.png" group-title="未知",CETV2中国教育电视台二套
-http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
-
-#EXTINF:-1 tvg-name="CETV3中国教育电视台三套" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/CETV3中国教育电视台三套.png" group-title="未知",CETV3中国教育电视台三套
-http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
-
-#EXTINF:-1 tvg-name="CETV4空中课堂频道" tvg-logo="https://archie-king.github.io/archie_live_test.github.io/tv/CETV4空中课堂频道.png" group-title="未知",CETV4空中课堂频道
-http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
 
